@@ -1,0 +1,22 @@
+# Homework: Introducción a Javascript
+
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+*Variables: Las variables son como cajones en donde se guardan valores para cuando uno las necesite, ir a buscarlas de ahí.
+Ejemplo: Un cajon de Herramientas, la variable seria cajonHerramienta y Martillo seria su valor, en caso de necesitarlo,
+recurrimos al cajon de herramientas y retiramos el martillo.-
+*Strings: Son valores de texto encerrados entre''.-
+*Funciones (argumentos, 'return'): Las funciones es como el nombre de una casa, son una forma más completa para 
+escribir instrucciones, los argumentos son como variables presentes en la funcion, se pueden aplicar de tipo 
+numerico y string entre''.- return sirve para retornar un valor presente en los parametros como una variable.-
+*Declaraciones: Las declaraciones son condiciones, es decir, si se cumple esto hace ésto sino hace tal cosa. Ejemplo 
+de declaraciones if, else.-
+Valores booleanos: Son respuestas al estilo si o no, true or false. Son como respuestas binarias.-
