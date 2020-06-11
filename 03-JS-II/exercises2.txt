@@ -1,0 +1,10 @@
+Explicar:
+
+* `for`
+* `&&`, `||`, `!`
+
+*for: es una palabra reservada para empezar un bucle, es decir, algo que queremos que se repita varias veces.-
+*&&: significa 'y' y se utiliza en tablas de verdad con operadores lógicos booleanos, con respuesta al estilo, si/no,
+o verdadero/falso. Si uno de los operadores es falso da falso pero si los dos son true da true.-
+||: significa 'o' y da siempre true si alguno de los operando lo es sino si los dos son false da false.-
+'!' es negacion y es lo contrario a los operandos.-
