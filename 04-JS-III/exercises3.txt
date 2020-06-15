@@ -1,0 +1,4 @@
+1 Explicar Arrays:
+Los Arrays son espacios donde se pueden guardar varios objetos ordenados en listas, y con un valor cada uno
+y poder acceder a ellos llamandolos por el valor de su posicion, pueden servir para 
+separar distintos tipos de temas o cosas.- Dentro de un Array puede ir cualquier tipo de dato; true, 1, 'uno'.-
