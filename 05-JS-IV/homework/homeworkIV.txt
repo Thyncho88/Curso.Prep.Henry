@@ -1,0 +1,18 @@
+1. Explicar.-
+
+	* Objetos
+	* Propiedades
+	* Métodos
+	* Bucle `for…in`
+	* Notación de puntos vs notación de corchetes
+
+	Los objetos son como los arrays pero con más características sobre una sola cosa, por ejemplo martin seria el objeto 
+	y sus gustos como que musica escucha, de que cuadro es, etc, serían las propiedades a las que se le asignan diversos
+	valores.-
+	Las propiedades son como los cajoncitos de los objetos, ejemplo: nombre, edad, fecha de nacimiento.-
+	Los Métodos son funciones dentro de los objetos.-
+	El bucle for in es como el bucle for pero se declara la variable dentro de los parentesis luego la palabra in y 
+	después el objeto.-
+	La notación de puntos es directa y no se pueden poner variables dentro como en los corchetes, con el . llamas
+	directo a la propiedad. Los corchetes pueden ir los parámetros.-
+	
